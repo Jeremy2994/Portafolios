@@ -1,0 +1,19 @@
+#Titulo {
+    font: oblique bold 120% cursive;
+}
+
+.foto1 {
+    width: 100px;
+    height: 65px;
+}
+#color {
+    background-color: black;
+}
+
+a{
+    color: aliceblue;
+}
+
+#color2{
+    font-size: large;
+}
